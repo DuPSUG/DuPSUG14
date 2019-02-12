@@ -11,15 +11,16 @@ As a special guest we will have [Tyler Leonhardt](https://twitter.com/TylerLeonh
 
 ## **Agenda**
 
-1730-1830 Walk in and food provided by [The Sourcing Company](https://www.thesourcingcompany.nl/en/)
-1830-1900 State of PowerShell 6 & Community Contributions – [Jaap Brasser](https://twitter.com/jaap_brasser) & [Mathias Jessen](https://www.twitter.com/iisresetme)
-1900-1945 PowerShell in VSCode (Remote) – [Tyler Leonhardt](https://twitter.com/TylerLeonhardt)
-1945-2030 Writing PowerShell Classes – [Irwin Strachan](https://twitter.com/IrwinStrachan)
-2030-2115 Intune, Powershell and the Graph API –  [Ralph Eckhard](https://twitter.com/ralpje)
+* 1730-1830 Walk in and food provided by [The Sourcing Company](https://www.thesourcingcompany.nl/en/)
+* 1830-1900 State of PowerShell 6 & Community Contributions – [Jaap Brasser](https://twitter.com/jaap_brasser) & [Mathias Jessen](https://www.twitter.com/iisresetme)
+* 1900-1945 PowerShell in VSCode (Remote) – [Tyler Leonhardt](https://twitter.com/TylerLeonhardt)
+* 1945-2030 Writing PowerShell Classes – [Irwin Strachan](https://twitter.com/IrwinStrachan)
+* 2030-2115 Intune, Powershell and the Graph API –  [Ralph Eckhard](https://twitter.com/ralpje)
 
 ## **Location**
 
 The Sourcing Company is sponsoring both the location and the food, a big thank you to them from everyone at DuPSUG. The event is hosted at the The Sourcing Company office located at the following address:
 
 Pompmolenlaan 10H
+
 3447 GK Woerden
