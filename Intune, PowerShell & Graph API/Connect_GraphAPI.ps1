@@ -1,3 +1,4 @@
+#Requires -Modules AzureAD
 function Connect-GraphAPI
 {
   <#
